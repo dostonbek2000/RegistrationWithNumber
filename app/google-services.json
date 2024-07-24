@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535014146072",
+    "project_id": "registration-with-number",
+    "storage_bucket": "registration-with-number.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535014146072:android:c7bc13ce6ca422432f036d",
+        "android_client_info": {
+          "package_name": "com.example.registrationwithnumber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNosu3k6juWQ-svm62U2TPEsorA14ak-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
